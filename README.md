@@ -6,7 +6,6 @@
 3. [Code Explanation](#code-explanation)
 4. [Unit Tests](#unit-tests)
 5. [How to Run](#how-to-run)
-6. [License](#license)
 
 ## Introduction
 This project is part of the Software Engineering Job Virtual Job Simulation provided by JPMorgan Chase & Co via The Forge platform. It involves a simulated trading application implemented in Python.
@@ -38,8 +37,5 @@ The unit tests in `client_test.py` cover scenarios such as calculating average p
    ```bash
    python -m unittest client_test.py
    ```
-   
-## License
-This project is licensed under the [MIT License](LICENSE).
-
+ 
 ---
